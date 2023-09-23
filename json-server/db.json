@@ -1,9 +1,14 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+  "Joke": {
+    "id": "joke",
+    "main": "Why did the scarecrow win an award?\nBecause he was outstanding in his field!"
+  },
+  "Article": {
+    "id": "artical",
+    "main": "Mysterious Crop Circles Appear Overnight \n \nIn a baffling occurrence, intricate crop circles have materialized in a remote field overnight. Local farmers discovered the mesmerizing patterns at dawn, sparking rumors of extraterrestrial involvement. Experts, however, believe it's more likely an elaborate prank or a natural phenomenon. The crop circles, spanning hundreds of feet, feature geometric precision and have drawn the attention of curious onlookers. Scientists and conspiracy theorists are now descending upon the site to unravel the mystery. Authorities urge caution and ask spectators to respect the farmer's property while investigations continue."
+  },
+  "News": {
+    "id": "news",
+    "main": "Breaking News: In a surprising turn of events, a group of penguins has taken over a deserted amusement park in Antarctica. The flightless birds, led by a charismatic emperor penguin named \"Pengzilla,\" have transformed the park into a winter wonderland. They've even organized their version of roller coaster races, sliding down icy slopes for fun. Local scientists are baffled by this unusual behavior, but animal experts suggest it may be a response to climate change altering their habitat. Tourists are flocking to witness this quirky spectacle, turning it into an unexpected hotspot for cold-weather adventurers."
+  }
 }
